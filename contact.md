@@ -1,5 +1,5 @@
 layout: page
 title: "Contact details"
-permalink: /about/contact/
+permalink: /contact/
 
 Add content for page here!
