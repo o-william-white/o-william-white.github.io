@@ -1,8 +1,18 @@
-theme: minima
 title: KrillGuard
-description: KrillGuard is  NERC funded reasearch project. 
+author:
+  name: Oliver White
+  email: o.william.white@gmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  KrillGuard is NERC funded reasearch project, based on a collaboration between
+  the NHM, BAS and UEA. 
+
+theme: minima
 
 minima:
+  skin: classic
   social_links:
     - { platform: github,  user_url: "https://github.com/o-william-white" }
     - { platform: x, user_url: "https://x.com/Ollie_W_White" }
