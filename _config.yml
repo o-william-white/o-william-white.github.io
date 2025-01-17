@@ -29,8 +29,8 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - discovery-collections.md
-  - meet-the-team.md
+  - discovery_collections.md
+  - meet_the_team.md
 
 
 # Set to `true` to show excerpts on the homepage.
