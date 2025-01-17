@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "NHM press release"
+title: "Krillguard launched"
 date: 2024-11-01 09:00:00 -0000
 categories: News
 ---
