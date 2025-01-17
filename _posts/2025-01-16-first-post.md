@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "First post"
-date: 2025-01-16 19:53:01 -0000
-categories: CATEGORY-1 CATEGORY-2
+title: "NHM press release"
+date: 2024-11-01 09:00:00 -0000
+categories: News
 ---
 
-Add test to post here!
+The KrillGuard project is launched today. See the [NHM press relase here](https://www.nhm.ac.uk/press-office/press-releases/urgent-project-to-deepen-understanding-of-antarctic-krill-in-a-c.html).
