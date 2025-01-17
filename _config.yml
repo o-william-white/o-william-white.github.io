@@ -1,3 +1,8 @@
 theme: minima
 title: KrillGuard
 description: KrillGuard is  NERC funded reasearch project. 
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/o-william-white" }
+    - { platform: x, user_url: "https://x.com/Ollie_W_White" }
