@@ -7,6 +7,8 @@ categories: [Updates, Digitising Diaries]
 tags: [blog]
 ---
 
+`January 16th, 2025`
+
 Alexandra here — Assistant Curator for KRILLGUARD at the Natural History Museum!
 
 It's been just over a month of me diving into the Natural
@@ -27,11 +29,12 @@ celebrating the cooperation between the USSR and Australia in Antarctica.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-    <img src="/images/south_georgia_stamp.jpg" width="22.5%">
-    <img src="/images/polish_stamp.jpg" width="22.5%">
-    <img src="/images/USSR_stamp.jpg" width="22.5%">
-    <img src="/images/Australia_own_stamp.jpg" width="22.5%">
+    <img src="https://raw.githubusercontent.com/o-william-white/o-william-white.github.io/alex/images/south_georgia_stamp.jpg" width="22.5%">
+    <img src="https://raw.githubusercontent.com/o-william-white/o-william-white.github.io/alex/images/polish_stamp.jpg" width="22.5%">
+    <img src="https://raw.githubusercontent.com/o-william-white/o-william-white.github.io/alex/images/USSR_stamp.jpg" width="22.5%">
+    <img src="https://raw.githubusercontent.com/o-william-white/o-william-white.github.io/alex/images/Australia_own_stamp.jpg" width="22.5%">
 </div>
+
 
 
 
