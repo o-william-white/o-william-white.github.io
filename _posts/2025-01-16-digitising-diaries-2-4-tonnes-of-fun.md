@@ -15,7 +15,7 @@ We know that whales eat a lot, judging by their (not exactly easy-to-comprehend)
 Krill aren’t as tiny as many people believe, as Stephen Nicol highlights in his book The Curious Life of Krill (apparently, he even has a slightly overgrown krill tattooed on his arm to combat misconceptions in daily interactions – I'm yet to be *that* dedicated to the subject). However, compared to whales, krill are tiny. If we were krill, a blue whale would be twice the length of the Brooklyn Bridge. So how does something that big survive by feeding primarily on something this small? And just how much krill do whales actually eat?
 
 
- original monograph on krill by J. Marr (published in 1962), summarising the krill-related findings of the Discovery expeditions, includes a paragraph which modestly states:
+The original monograph on krill by J. Marr (published in 1962), summarising the krill-related findings of the Discovery expeditions, includes a paragraph which modestly states:
 
 *"Stomach of a small 72-foot male blue whale, cut open to show the enormous quantity of krill that can be swallowed, even by a young animal <...> there may be between 1 and 2 tons of krill present."*
 
