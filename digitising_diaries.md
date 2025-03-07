@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Digitising Diaries
 permalink: /digitising-diaries/
 ---
 
